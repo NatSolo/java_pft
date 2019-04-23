@@ -1,4 +1,6 @@
-package ru.stqa.pft.sedbox;
+package ru.stqa.pft.sendbox.sedbox;
+
+import ru.stqa.pft.sendbox.Rectangle;
 
 public class MyFirstProgram {
 
@@ -7,7 +9,7 @@ public class MyFirstProgram {
     hello("user");
     hello("Natalia");
 
-    Square s = new Square(5);
+    ru.stqa.pft.sendbox.sedbox.Square s = new Square(5);
 
     System.out.println("Square area with each side "+ s.l + " = " + s.area());
 

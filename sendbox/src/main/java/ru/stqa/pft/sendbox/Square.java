@@ -1,4 +1,4 @@
-package ru.stqa.pft.sedbox;
+package ru.stqa.pft.sendbox;
 
 public class Square {
 
